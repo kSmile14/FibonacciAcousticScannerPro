@@ -4,6 +4,10 @@
 
 ---
 
+![Fibonacci Acoustic Scanner Pro](Docs/cover.jpeg)
+
+---
+
 ## Overview
 
 Fibonacci Acoustic Scanner Pro is a runtime acoustic simulation plugin for Unity + Wwise. It uses a Fibonacci sphere of raycasts to model how sound behaves in real environments — attenuating through walls, diffracting around corners, and reverberating according to the size and surface materials of the space the listener occupies.
